@@ -1,0 +1,7 @@
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
