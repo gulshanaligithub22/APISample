@@ -2,6 +2,8 @@ C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Da
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\AutoMapper.dll
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Azure.Core.dll
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Azure.Identity.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
@@ -46,6 +48,7 @@ C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Mi
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
@@ -56,12 +59,15 @@ C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Ne
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Buffers.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Memory.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Permissions.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Text.Encodings.Web.dll
@@ -69,6 +75,8 @@ C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Sy
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.ValueTuple.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\AutoMapper.xml
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Azure.Core.xml
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Azure.Identity.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
@@ -112,6 +120,7 @@ C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Mi
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
@@ -121,6 +130,8 @@ C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Mi
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Buffers.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Data.SqlClient.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Memory.xml
@@ -148,153 +159,164 @@ C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\Da
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Medico\source\repos\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\AutoMapper.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Bcl.HashCode.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Data.SqlClient.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Net.Http.Headers.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Buffers.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.ComponentModel.Annotations.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Memory.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.AccessControl.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Permissions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Text.Encodings.Web.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Text.Json.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.ValueTuple.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\AutoMapper.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Bcl.HashCode.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Data.SqlClient.pdb
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Data.SqlClient.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Net.Http.Headers.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Buffers.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Memory.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.AccessControl.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Permissions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Text.Encodings.Web.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Text.Json.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.ValueTuple.xml
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
-D:\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
-D:\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
-D:\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.dll
-D:\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\AutoMapper.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Azure.Core.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Azure.Identity.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Buffers.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Memory.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.AccessControl.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Permissions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Text.Json.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\AutoMapper.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Azure.Core.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Azure.Identity.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Buffers.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Data.SqlClient.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Memory.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.AccessControl.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Permissions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Text.Json.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Gulshan Ali\Gulshan Ali Repository\Working Application\API\ThreeLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
